@@ -1,0 +1,85 @@
+{
+  "name": "docs",
+  "type": "folder",
+  "children": [
+    {
+      "name": "隐私",
+      "type": "folder",
+      "children": [
+        {
+          "name": "隐私协议.md",
+          "type": "file",
+          "path": "隐私/隐私协议.md"
+        }
+      ]
+    },
+    {
+      "name": "帮助",
+      "type": "folder",
+      "children": [
+        {
+          "name": "权限问题.md",
+          "type": "file",
+          "path": "帮助/权限问题.md"
+        },
+        {
+          "name": "网络问题.md",
+          "type": "file",
+          "path": "帮助/网络问题.md"
+        },
+        {
+          "name": "Bug.md",
+          "type": "file",
+          "path": "帮助/Bug.md"
+        }
+      ]
+    },
+    {
+      "name": "安全",
+      "type": "folder",
+      "children": [
+        {
+          "name": "安全协议.md",
+          "type": "file",
+          "path": "安全/安全协议.md"
+        },
+        {
+          "name": "密码.md",
+          "type": "file",
+          "path": "安全/密码.md"
+        },
+        {
+          "name": "第二层密码.md",
+          "type": "file",
+          "path": "安全/第二层密码.md"
+        }
+      ]
+    },
+    {
+      "name": "更新概述",
+      "type": "folder",
+      "children": [
+        {
+          "name": "2026年3月7日更新.md",
+          "type": "file",
+          "path": "更新概述/2026年3月7日更新.md"
+        },
+        {
+          "name": "2026年3月13日更新.md",
+          "type": "file",
+          "path": "更新概述/2026年3月13日更新.md"
+        },
+        {
+          "name": "2026年3月20日更新.md",
+          "type": "file",
+          "path": "更新概述/2026年3月20日更新.md"
+        },
+        {
+          "name": "2026年3月27日更新.md",
+          "type": "file",
+          "path": "更新概述/2026年3月27日更新.md"
+        }
+      ]
+    }
+  ]
+}
